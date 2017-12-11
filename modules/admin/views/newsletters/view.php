@@ -1,0 +1,1 @@
+<embed src="<?= Url::home(true) ?>/<?= $model->file ?>" type='application/pdf'>

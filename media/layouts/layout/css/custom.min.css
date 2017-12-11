@@ -1,0 +1,26 @@
+.form-group.form-md-line-input .form-control~label,.profile label
+{ margin-top: 0 !important}
+.pad0{ padding:0px !important}
+
+.invoice .amounts{
+	text-align: left;
+	font-size: 24px;
+}
+.page-header .page-logo img {
+    margin-left: 20px;
+    max-width: 100px;
+	margin-top: 8px !important;
+}
+
+#invoice-items li input, textarea{
+	border: none;
+	background: transparent;
+}
+
+#invoice-items li textarea{
+	text-align:center;
+}
+
+@media print {
+	.hide-print {display: none;}
+}

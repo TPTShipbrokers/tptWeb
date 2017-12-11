@@ -1,0 +1,17 @@
+
+<Limit GET POST PUT DELETE>
+order deny,allow
+allow from all
+</Limit>
+
+Options +FollowSymLinks
+IndexIgnore */*
+RewriteEngine on
+
+# If a directory or a file exists, use the request directly
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+# Otherwise forward the request to index.php
+RewriteRule . index.php
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+#AddType application/json

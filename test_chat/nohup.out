@@ -1,0 +1,483 @@
+Server started
+Listening on: 178.62.74.40:9000
+Master socket: Resource id #6
+Client connected. Resource id #7
+string(14) "User message 8"
+Client connected. Resource id #11
+string(14) "User message 8"
+Client connected. Resource id #15
+string(14) "User message 8"
+Client connected. Resource id #18
+string(14) "User message 5"
+string(164) "User message {"to_id": 5, "from_id": 8, "message": "DJE SI", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(158) "User message {"name":"Steve Lewis","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","message":"Chau"}"
+string(183) "User message {"to_id": 5, "from_id": 8, "message": "vis kako sam lepo opravio", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(175) "User message {"to_id": 5, "from_id": 8, "message": "radi ko boNboNica", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(177) "User message {"to_id": 5, "from_id": 8, "message": "sto bi reko bosanac", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(184) "User message {"name":"Steve Lewis","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","message":"Opravio si ga svaka ti se dala"}"
+string(175) "User message {"to_id": 5, "from_id": 8, "message": "jedino sto gledam", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(181) "User message {"to_id": 5, "from_id": 8, "message": "i sve ocekujem da vidim", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(169) "User message {"to_id": 5, "from_id": 8, "message": "typing ....", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(163) "User message {"to_id": 5, "from_id": 8, "message": ":S :S", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(160) "User message {"to_id": 5, "from_id": 8, "message": ":D", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(160) "User message {"to_id": 5, "from_id": 8, "message": "D:", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(171) "User message {"name":"Steve Lewis","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","message":"Ahahaha i ja isto"}"
+string(160) "User message {"to_id": 5, "from_id": 8, "message": ":D", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(177) "User message {"to_id": 5, "from_id": 8, "message": "a i smajlije nemamo", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(161) "User message {"to_id": 5, "from_id": 8, "message": "bed", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(176) "User message {"name":"Steve Lewis","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","message":"I nemamo emotikone jbt"}"
+string(180) "User message {"to_id": 5, "from_id": 8, "message": "boli me dupe doduse :D", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(180) "User message {"name":"Steve Lewis","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","message":"Ahahahah isto smo napisali"}"
+string(181) "User message {"name":"Steve Lewis","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","message":"Ma taj fazon, bitno da radi"}"
+string(181) "User message {"to_id": 5, "from_id": 8, "message": "za ovo da trazimo bonus", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(160) "User message {"to_id": 5, "from_id": 8, "message": ":D", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(204) "User message {"to_id": 5, "from_id": 8, "message": "napravili smo chat to je svemirska tehnologija", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(208) "User message {"name":"Steve Lewis","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","message":"Pitao me Bruno da proba chat pa sam zato rekao dUpalis"}"
+string(160) "User message {"to_id": 5, "from_id": 8, "message": ":D", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(160) "User message {"to_id": 5, "from_id": 8, "message": "a ", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(170) "User message {"to_id": 5, "from_id": 8, "message": "ajde zovi ga", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(168) "User message {"to_id": 5, "from_id": 8, "message": "koji je on", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(212) "User message {"name":"Steve Lewis","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","message":"Hahah pa nego, ovo u njihovom selu nema ovakva tehnologija"}"
+string(163) "User message {"to_id": 5, "from_id": 8, "message": "pa da", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(173) "User message {"to_id": 5, "from_id": 8, "message": "da se chatujemo", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(167) "User message {"to_id": 5, "from_id": 8, "message": "dizginemo", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(187) "User message {"name":"Steve Lewis","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","message":"Pa i on ce da bude na ovom nalogu"}"
+string(176) "User message {"to_id": 5, "from_id": 8, "message": "... rece bruno ...", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(168) "User message {"name":"Steve Lewis","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","message":"Al jije tu sad"}"
+string(197) "User message {"to_id": 5, "from_id": 8, "message": "i meni skoci temperatura za dva stepena", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(172) "User message {"name":"Steve Lewis","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","message":"Javice se kad bude"}"
+string(166) "User message {"to_id": 5, "from_id": 8, "message": ":D :D :D", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(160) "User message {"name":"Steve Lewis","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","message":"Hahaha"}"
+string(206) "User message {"to_id": 5, "from_id": 8, "message": "... u tom slucaju nadacemo se da nece da koristi", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(175) "User message {"to_id": 5, "from_id": 8, "message": "gugl translejt :D", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(163) "User message {"to_id": 5, "from_id": 8, "message": ":D :D", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(161) "User message {"to_id": 5, "from_id": 8, "message": "3:)", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(164) "User message {"name":"Steve Lewis","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","message":"Hahahahaha"}"
+string(166) "User message {"name":"Steve Lewis","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","message":"Tu handreeed"}"
+string(163) "User message {"to_id": 5, "from_id": 8, "message": "JUROS", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(175) "User message {"to_id": 5, "from_id": 8, "message": "prelazim na juros", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(176) "User message {"to_id": 5, "from_id": 8, "message": "nema zajebavancije", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(160) "User message {"to_id": 5, "from_id": 8, "message": ":D", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(198) "User message {"name":"Steve Lewis","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","message":"E a steta sto nisi ovde, ovi ovde ko opatice"}"
+string(189) "User message {"name":"Steve Lewis","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","message":"A Jovan i ja krenuli da pijemo 😃"}"
+Client connected. Resource id #73
+string(14) "User message 5"
+string(252) "User message {"message":"sad cu da ti pisem nesto samo da vidim koliko mi je dug label za pisanjeeee provera test 1234567\n","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"
+Client disconnected. TCP connection lost: Resource id #73
+string(165) "User message {"to_id": 5, "from_id": 8, "message": "hahahha", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(205) "User message {"to_id": 5, "from_id": 8, "message": "sda ste resili da pocnete od pocetka nedelje :D", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(195) "User message {"to_id": 5, "from_id": 8, "message": "dodjem sutra, zapamtite gde ste stali", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(200) "User message {"to_id": 5, "from_id": 8, "message": "ako ova prokleta glavudza resi da se smiri", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+Client connected. Resource id #82
+string(14) "User message 5"
+string(160) "User message {"to_id": 5, "from_id": 8, "message": ":/", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(157) "User message {"message":"Hey","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"
+Client connected. Resource id #87
+string(14) "User message 5"
+string(172) "User message {"message":"I don't understand","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"
+string(167) "User message {"message":"Haha works!! ","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"
+Client disconnected. TCP connection lost: Resource id #82
+string(163) "User message {"to_id": 5, "from_id": 8, "message": "hmmmm", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(166) "User message {"to_id": 5, "from_id": 8, "message": "benny :D", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(180) "User message {"to_id": 5, "from_id": 8, "message": "bruno is here?????????", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(163) "User message {"to_id": 5, "from_id": 8, "message": ":D :D", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(190) "User message {"message":"But I received the notification now ","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"
+string(166) "User message {"message":"Yes it's me ","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"
+string(177) "User message {"to_id": 5, "from_id": 8, "message": "poush notification?", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(163) "User message {"to_id": 5, "from_id": 8, "message": "push*", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(157) "User message {"message":"Yes","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"
+Client connected. Resource id #102
+string(19) "User message (null)"
+string(187) "User message {"to_id": 5, "from_id": 8, "message": "did you go out from the chat?", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(204) "User message {"to_id": 5, "from_id": 8, "message": "once you leave the chat window on application ", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+Client connected. Resource id #108
+string(14) "User message 5"
+string(220) "User message {"to_id": 5, "from_id": 8, "message": "you receive push notifications when new message is sent to you", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(238) "User message {"message":"Also when I click in the notification sent me to ongoing operations instead of chat ","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"
+string(186) "User message {"to_id": 5, "from_id": 8, "message": "benny you broke it again!!!!", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(167) "User message {"to_id": 5, "from_id": 8, "message": "hahahhaha", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+Client connected. Resource id #116
+string(14) "User message 5"
+string(165) "User message {"name":"Steve Lewis","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","message":"No i didn't"}"
+string(189) "User message {"message":"I don't understand the question... ","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"
+string(158) "User message {"name":"Steve Lewis","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","message":"Hshs"}"
+Client connected. Resource id #124
+string(19) "User message (null)"
+Client disconnected. TCP connection lost: Resource id #124
+Client connected. Resource id #128
+string(19) "User message (null)"
+string(293) "User message {"to_id": 5, "from_id": 8, "message": "benny left offline and you came online on the same account and in the meantime my spamming messages were sent through push notification", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(164) "User message {"to_id": 5, "from_id": 8, "message": "i gues", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(164) "User message {"to_id": 5, "from_id": 8, "message": "guess*", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(160) "User message {"to_id": 5, "from_id": 8, "message": ":D", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+Client connected. Resource id #135
+string(14) "User message 5"
+Client connected. Resource id #138
+string(193) "User message {"message":"Haha brilliant, well atleast they work!","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"
+string(14) "User message 5"
+string(180) "User message {"message":"Shame I can't read Serbian","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"
+Client disconnected. TCP connection lost: Resource id #128
+Client connected. Resource id #145
+string(14) "User message 5"
+Client connected. Resource id #149
+string(14) "User message 5"
+string(250) "User message {"message":"sdfsfdsfsfdsfdsfkldmskfldsklfdklsfmkldsfmkldsmfkldmskflmdklsfmdklsfmdklsfmkldsmfkldmsfkldmsfdsfs","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"
+Client disconnected. TCP connection lost: Resource id #135
+Client disconnected. TCP connection lost: Resource id #149
+Client connected. Resource id #155
+string(14) "User message 5"
+string(270) "User message {"message":"sdlfjnsfjndjsfdsfsdfjknsfjknsdfjknfjknfjknsfjndjksfndjksfnjkdsfnjkdsnfjkdsnfjkdsnfkndsfjkndsfndskfndjksfndjksfnknsff","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"
+string(257) "User message {"message":"kdsnfkndksjfnjksnfjksnfjkdnsfjkdsjkfds;f;dsnf;dnfjsdnfj;dnsfjdnsfdfndjksnfjknsfkfndjs;fnjksnfjnsf;nds\n","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"
+Client connected. Resource id #161
+string(14) "User message 8"
+Client connected. Resource id #165
+string(14) "User message 8"
+Client disconnected. TCP connection lost: Resource id #155
+Client connected. Resource id #170
+string(14) "User message 5"
+Client connected. Resource id #173
+string(14) "User message 8"
+string(163) "User message {"message":"chat test","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"
+Client connected. Resource id #178
+string(14) "User message 8"
+Client connected. Resource id #182
+string(14) "User message 8"
+Client connected. Resource id #186
+string(14) "User message 8"
+Client disconnected. TCP connection lost: Resource id #170
+string(159) "User message {"to_id": 5, "from_id": 8, "message": "c", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+Client connected. Resource id #191
+string(14) "User message 5"
+string(158) "User message {"message":"test","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"
+Client connected. Resource id #195
+string(14) "User message 5"
+string(179) "User message {"message":"nooow it is better. Benny","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"
+Client connected. Resource id #199
+string(14) "User message 5"
+Client disconnected. TCP connection lost: Resource id #195
+Client disconnected. TCP connection lost: Resource id #199
+Client connected. Resource id #205
+string(14) "User message 5"
+Client connected. Resource id #208
+string(14) "User message 5"
+Client connected. Resource id #211
+string(14) "User message 5"
+Client disconnected. TCP connection lost: Resource id #211
+Client disconnected. TCP connection lost: Resource id #205
+Client disconnected. TCP connection lost: Resource id #208
+Client connected. Resource id #218
+string(14) "User message 8"
+Client connected. Resource id #222
+string(14) "User message 8"
+Client connected. Resource id #226
+string(14) "User message 8"
+Client connected. Resource id #229
+string(14) "User message 5"
+Client connected. Resource id #233
+string(14) "User message 5"
+Client connected. Resource id #237
+string(14) "User message 5"
+Client connected. Resource id #241
+string(14) "User message 8"
+Client connected. Resource id #246
+string(14) "User message 8"
+Client connected. Resource id #250
+Client connected. Resource id #252
+string(14) "User message 8"
+Client connected. Resource id #256
+string(14) "User message 8"
+Client connected. Resource id #260
+string(14) "User message 8"
+Client connected. Resource id #264
+string(14) "User message 8"
+Client connected. Resource id #268
+string(14) "User message 8"
+Client connected. Resource id #272
+string(14) "User message 8"
+Client connected. Resource id #276
+string(14) "User message 8"
+Client connected. Resource id #280
+string(14) "User message 8"
+Client connected. Resource id #284
+string(14) "User message 8"
+Client connected. Resource id #288
+string(14) "User message 8"
+Client connected. Resource id #292
+string(14) "User message 8"
+Client connected. Resource id #296
+string(14) "User message 8"
+Client connected. Resource id #300
+string(14) "User message 8"
+Client connected. Resource id #304
+string(14) "User message 8"
+Client connected. Resource id #308
+string(14) "User message 8"
+Client connected. Resource id #312
+string(14) "User message 8"
+Client connected. Resource id #316
+string(14) "User message 8"
+Client connected. Resource id #320
+string(14) "User message 8"
+Client connected. Resource id #324
+string(14) "User message 8"
+Client connected. Resource id #327
+string(14) "User message 8"
+Client connected. Resource id #332
+string(14) "User message 8"
+Client connected. Resource id #336
+string(14) "User message 8"
+Client connected. Resource id #340
+string(14) "User message 8"
+Client connected. Resource id #343
+string(14) "User message 8"
+Client connected. Resource id #347
+string(14) "User message 8"
+Client connected. Resource id #351
+string(14) "User message 8"
+Client connected. Resource id #355
+string(14) "User message 8"
+Client connected. Resource id #359
+string(14) "User message 8"
+Client connected. Resource id #363
+string(14) "User message 8"
+Client connected. Resource id #366
+string(14) "User message 8"
+Client connected. Resource id #370
+string(14) "User message 8"
+Client connected. Resource id #374
+string(14) "User message 8"
+Client connected. Resource id #378
+string(14) "User message 8"
+Client connected. Resource id #382
+string(14) "User message 8"
+Client connected. Resource id #385
+string(14) "User message 5"
+Client connected. Resource id #390
+string(14) "User message 8"
+Client connected. Resource id #394
+string(14) "User message 8"
+Client connected. Resource id #398
+string(14) "User message 8"
+Client connected. Resource id #402
+string(14) "User message 8"
+Client connected. Resource id #406
+string(14) "User message 8"
+Client connected. Resource id #410
+string(14) "User message 8"
+Client connected. Resource id #414
+string(14) "User message 8"
+Client connected. Resource id #418
+string(14) "User message 8"
+Client connected. Resource id #422
+string(14) "User message 8"
+Client connected. Resource id #426
+string(14) "User message 8"
+Client connected. Resource id #430
+string(14) "User message 8"
+Client connected. Resource id #434
+string(14) "User message 8"
+Client connected. Resource id #438
+string(14) "User message 8"
+Client connected. Resource id #441
+string(14) "User message 8"
+Client connected. Resource id #446
+string(14) "User message 8"
+Client connected. Resource id #450
+string(14) "User message 8"
+Client connected. Resource id #453
+Client disconnected. TCP connection lost: Resource id #453
+Client connected. Resource id #458
+string(14) "User message 8"
+Client connected. Resource id #462
+string(14) "User message 8"
+Client connected. Resource id #466
+string(14) "User message 8"
+Client connected. Resource id #470
+string(14) "User message 8"
+Client connected. Resource id #474
+string(14) "User message 8"
+Client connected. Resource id #478
+string(14) "User message 8"
+Client connected. Resource id #482
+string(14) "User message 8"
+Client connected. Resource id #486
+string(14) "User message 8"
+Client connected. Resource id #490
+string(14) "User message 8"
+Client connected. Resource id #494
+string(14) "User message 8"
+Client connected. Resource id #498
+string(14) "User message 8"
+Client connected. Resource id #502
+Client connected. Resource id #504
+Client connected. Resource id #506
+Client connected. Resource id #508
+string(15) "User message 47"
+Client connected. Resource id #512
+string(15) "User message 47"
+Client connected. Resource id #516
+string(15) "User message 47"
+Client connected. Resource id #520
+Client connected. Resource id #522
+Client connected. Resource id #524
+Client connected. Resource id #526
+Client connected. Resource id #528
+Client connected. Resource id #530
+Client connected. Resource id #532
+Client connected. Resource id #534
+Client connected. Resource id #536
+Client connected. Resource id #538
+Client connected. Resource id #540
+Client connected. Resource id #542
+Client connected. Resource id #544
+Client connected. Resource id #546
+Client connected. Resource id #548
+string(14) "User message 6"
+Client connected. Resource id #552
+string(14) "User message 6"
+Client connected. Resource id #556
+string(14) "User message 6"
+Client connected. Resource id #560
+string(14) "User message 6"
+Client connected. Resource id #564
+string(14) "User message 6"
+Client connected. Resource id #568
+string(14) "User message 6"
+Client connected. Resource id #572
+string(14) "User message 6"
+Client connected. Resource id #576
+string(14) "User message 6"
+Client connected. Resource id #580
+string(14) "User message 6"
+Client connected. Resource id #584
+string(14) "User message 6"
+Client connected. Resource id #588
+string(14) "User message 6"
+Client connected. Resource id #592
+string(14) "User message 6"
+Client connected. Resource id #595
+string(14) "User message 6"
+Client connected. Resource id #599
+string(14) "User message 6"
+Client connected. Resource id #603
+string(14) "User message 6"
+Client connected. Resource id #607
+string(14) "User message 6"
+Client connected. Resource id #611
+string(14) "User message 6"
+Client connected. Resource id #615
+string(14) "User message 6"
+Client connected. Resource id #619
+string(14) "User message 6"
+Client connected. Resource id #622
+string(14) "User message 6"
+Client connected. Resource id #627
+string(14) "User message 6"
+Client connected. Resource id #631
+string(14) "User message 6"
+Client connected. Resource id #635
+string(14) "User message 6"
+Client connected. Resource id #639
+string(14) "User message 6"
+Client connected. Resource id #643
+string(14) "User message 6"
+Client connected. Resource id #647
+string(14) "User message 6"
+Client connected. Resource id #651
+string(14) "User message 6"
+Client connected. Resource id #656
+Client connected. Resource id #657
+string(14) "User message 6"
+string(14) "User message 6"
+Client connected. Resource id #664
+string(14) "User message 6"
+Client connected. Resource id #668
+string(14) "User message 6"
+Client connected. Resource id #672
+string(14) "User message 6"
+Client connected. Resource id #676
+string(14) "User message 6"
+Client connected. Resource id #680
+string(14) "User message 6"
+Client connected. Resource id #684
+string(14) "User message 6"
+Client connected. Resource id #688
+string(14) "User message 6"
+Client connected. Resource id #692
+string(14) "User message 6"
+Client connected. Resource id #696
+string(14) "User message 6"
+Client connected. Resource id #699
+string(14) "User message 6"
+Client connected. Resource id #703
+string(14) "User message 6"
+Client connected. Resource id #707
+string(14) "User message 6"
+Client connected. Resource id #711
+string(14) "User message 6"
+Client connected. Resource id #714
+string(14) "User message 6"
+Client connected. Resource id #718
+string(14) "User message 6"
+Client connected. Resource id #722
+string(14) "User message 6"
+Client connected. Resource id #726
+Client connected. Resource id #730
+string(15) "User message 47"
+Client connected. Resource id #734
+string(14) "User message 8"
+Client connected. Resource id #738
+string(14) "User message 8"
+Client connected. Resource id #741
+string(14) "User message 6"
+Client connected. Resource id #745
+string(14) "User message 6"
+Client connected. Resource id #749
+string(14) "User message 6"
+Client connected. Resource id #753
+string(14) "User message 6"
+Client connected. Resource id #757
+string(14) "User message 8"
+Client connected. Resource id #761
+string(14) "User message 8"
+Client connected. Resource id #765
+string(14) "User message 8"
+string(167) "User message {"to_id": 5, "from_id": 8, "message": "hey mate ", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+Client connected. Resource id #769
+string(14) "User message 5"
+string(160) "User message {"message":"Test 1","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"
+string(167) "User message {"to_id": 5, "from_id": 8, "message": "yes sure ", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(310) "User message {"message":"Janahauaha ahha Aisha abbeys hsvabsi shush shsvsu is why jsjsjjane jsjsjjane jsjsjjane jsjsjjane jajaja jajaja jsjsjjane  Anshan snakes Aisha's Jajaj Jajaj ","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"
+Client connected. Resource id #776
+string(14) "User message 5"
+Client disconnected. TCP connection lost: Resource id #776
+Client connected. Resource id #780
+string(14) "User message 5"
+Client connected. Resource id #783
+string(14) "User message 5"
+Client connected. Resource id #786
+string(14) "User message 5"
+Client connected. Resource id #789
+string(14) "User message 5"
+Client disconnected. TCP connection lost: Resource id #780
+Client disconnected. TCP connection lost: Resource id #786
+Client disconnected. TCP connection lost: Resource id #783
+Client disconnected. TCP connection lost: Resource id #789
+Client connected. Resource id #796
+string(14) "User message 5"
+Client disconnected. TCP connection lost: Resource id #796
+string(164) "User message {"to_id": 5, "from_id": 8, "message": "jahaha", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+string(167) "User message {"to_id": 5, "from_id": 8, "message": "uhauhauha", "name": "Account Manager", "profile_picture": "uploads/images/11830776_943102495747285_14699217_n.jpg"}"
+Client connected. Resource id #802
+string(14) "User message 5"
+string(244) "User message {"message":"fhbdjhbfjbgbfdhbggdfbgdfbjbdjhbdhjbgdfjbgdfbgdjfgjdhfjgbdfhbfhdghbdgbdbgdbgbdbgdbgbgdfjbhg","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"
+string(155) "User message {"message":"G","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"
+string(155) "User message {"message":"J","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"
+Client disconnected. TCP connection lost: Resource id #802
+Client connected. Resource id #810
+string(14) "User message 5"
+Client disconnected. TCP connection lost: Resource id #810
+Client connected. Resource id #814
+string(14) "User message 5"
+string(292) "User message {"message":"dfgdgfdgfdgfdgdfjkgndfjkgnkdfnjkgndfjknfjkdngjkfdngjkfdngkdfkgnfjkdngdfjkngjkfdnjkgnjkdfngjkdfnjkgndfjkgndfjkngdfngjkdfngkndfjkgndfjkgndfg","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"
+string(161) "User message {"message":"fgdgfdg","profile_picture":"http:\/\/borne.io\/topfenders\/uploads\/images\/avatar3.jpg","from_id":"5","to_id":"8","name":"Steve Lewis"}"

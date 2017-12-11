@@ -1,0 +1,11 @@
+<?php
+
+return [
+    'class' => 'yii\db\Connection',
+
+    'dsn' => 'mysql:host=localhost;dbname=tpt',
+    'username' => 'root',
+    'password' => '',
+    'charset' => 'utf8',
+ 
+];
